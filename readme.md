@@ -1,4 +1,4 @@
-
+#Please add more details and help to improve...
 # Ark
 
 Ark is a static website generator written in Python. It transforms a
